@@ -1,5 +1,7 @@
 # Deploy Spring Boot and Docker Microservices to AWS using ECS and AWS Fargate
 
+
+
 ## Learn Amazon Web Services - AWS - deploying Spring Boot and Docker Microservices to AWS Fargate. Implement Service Discovery, Load Balancing, Auto Discovery, Centralized Configuration and Distributed Tracing in AWS.
 
 Spring Boot is the No 1 Java Framework to develop REST API and Microservices. AWS (Amazon Web Services) is the No 1 Cloud Service Provider today.
